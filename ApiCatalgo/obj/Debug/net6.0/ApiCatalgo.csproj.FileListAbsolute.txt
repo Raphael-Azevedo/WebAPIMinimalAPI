@@ -59,3 +59,4 @@ D:\REPOSITÓRIO\WebAPIMinimalAPI\ApiCatalgo\obj\Debug\net6.0\refint\ApiCatalgo.d
 D:\REPOSITÓRIO\WebAPIMinimalAPI\ApiCatalgo\obj\Debug\net6.0\ApiCatalgo.pdb
 D:\REPOSITÓRIO\WebAPIMinimalAPI\ApiCatalgo\obj\Debug\net6.0\ApiCatalgo.genruntimeconfig.cache
 D:\REPOSITÓRIO\WebAPIMinimalAPI\ApiCatalgo\obj\Debug\net6.0\ref\ApiCatalgo.dll
+D:\REPOSITÓRIO\WebAPIMinimalAPI\ApiCatalgo\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
